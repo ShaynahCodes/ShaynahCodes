@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shaynahcodes.com">
-    <img src="assets/title-screen.svg" width="100%" alt="Retro game title screen reading SHAYNAH, automation developer and game designer, with a hi-score of 1212 and a blinking Press Start.">
+    <img src="assets/title-screen.svg" width="100%" alt="Retro game title screen reading SHAYNAH, automation developer and game designer, with a hi-score of 1212, a blinking Press Start and a pixel Atlanta skyline at dusk.">
   </a>
 </p>
 
