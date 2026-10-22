@@ -1,43 +1,46 @@
 <p align="center">
   <a href="https://shaynahcodes.com">
-    <img src="assets/title-screen.svg" width="100%" alt="Retro game title screen reading SHAYNAH, with a blinking Press Start and a menu: Automations, Games, Trading, About.">
+    <img src="assets/title-screen.svg" width="100%" alt="Retro game title screen reading SHAYNAH, with a hi-score of 2 hours to 15 minutes and a blinking Press Start.">
   </a>
 </p>
 
 <p align="center">
-  <a href="#automations"><b>▶ AUTOMATIONS</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="#games"><b>GAMES</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="#trading"><b>TRADING</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <a href="#about"><b>ABOUT</b></a>
+  <b>▶ <a href="#automations">AUTOMATIONS</a>&emsp;&emsp;<a href="#games">GAMES</a>&emsp;&emsp;<a href="#trading">TRADING</a>&emsp;&emsp;<a href="#about">ABOUT</a></b>
 </p>
 
 <br>
 
 ## Automations
 
-Python tools and workflow systems for repetitive, error-prone business processes. Both repos are portfolio reconstructions of tools I built and run at work, rebuilt with fictional data.
+I build tools for the work people dread doing every week. These two are rebuilds of automations I made at my job, with fictional data in place of real customers.
 
-| | |
-|---|---|
-| **[Label Proof Automation](https://github.com/ShaynahCodes/label-proof-automation)**<br>Watches a shared inbox, reads Excel, PDF and Word label requests, validates every line, builds the proof and leaves a draft for a person to send.<br><br>**Proof response: up to 2 hours → under 1 minute**<br><sub>Python · Microsoft Graph · SQLite · pdfplumber · openpyxl · 36 tests</sub> | **[Billing Reconciliation](https://github.com/ShaynahCodes/billing-reconciliation-demo)**<br>Reconciles two weekly QuickBooks exports, checks every invoice against billing rules and generates the PDFs only after the run passes.<br><br>**Weekly billing: about 2 hours → 10–15 minutes**<br><sub>Python · Tkinter · 15 tests</sub> |
+### [Label Proof Automation](https://github.com/ShaynahCodes/label-proof-automation)
 
-Full case studies with interactive demos live on **[shaynahcodes.com](https://shaynahcodes.com)**.
+Customers email label requests as Excel, PDF or Word files. This watches the inbox, checks that the label text matches the customer's file exactly, builds the proof, and leaves a reply ready for someone to look over and send.
+
+**Proof turnaround went from up to 2 hours to under a minute.**
+
+### [Billing Reconciliation](https://github.com/ShaynahCodes/billing-reconciliation-demo)
+
+Every week, two QuickBooks exports have to agree before invoices go out. This checks every invoice against the billing rules and only makes the PDFs once everything lines up.
+
+**Weekly billing went from about 2 hours to 10–15 minutes.**
+
+Both are written in Python, and their tests run on every push. The full case studies, with demos you can click through, are on [shaynahcodes.com](https://shaynahcodes.com).
 
 ## Games
 
-| | |
-|---|---|
-| **[Self Sabotage Slayer](https://github.com/ShaynahCodes/self-sabotage-slayer)**<br>A turn-based browser RPG about trading psychology. Battle 11 bosses and keep your Mental Equity above zero.<br><br>[▶ Play](https://mediumblue-oryx-440075.hostingersite.com/) | **[Profit Plinko](https://github.com/ShaynahCodes/profit-plinko)**<br>A trading psychology game that uses probability and variance to teach outcome neutrality and patience.<br><br>[▶ Play](https://alignedfx.com/profit-plinko) |
+- **[Self Sabotage Slayer](https://github.com/ShaynahCodes/self-sabotage-slayer)**: a turn-based RPG where the bosses are bad trading habits. [Play it](https://mediumblue-oryx-440075.hostingersite.com/)
+- **[Profit Plinko](https://github.com/ShaynahCodes/profit-plinko)**: a Plinko game about probability, variance and staying patient. [Play it](https://alignedfx.com/profit-plinko)
 
 ## Trading
 
-I'm a forex trader, and I build **[AlignedFX](https://alignedfx.com)** around the mental side of it: trading psychology, money mindset, personalized assessments, calculators and game-like learning tools.
+I trade forex, and [AlignedFX](https://alignedfx.com) is where I build tools for the mental side of it.
 
 ## About
 
-I'm an Atlanta-based automation developer with a degree in Game Design & Development. Games taught me to love the structure underneath an experience: logic, states, feedback and edge cases. I bring that same mindset to automation, starting from how the work actually happens and keeping people in control of the decisions that need judgment.
+I'm based in Atlanta and have a degree in Game Design & Development. I like building things people actually interact with. Sometimes that's a game, sometimes it's a website, and sometimes it's a Python tool that saves someone from doing the same tedious task every Wednesday.
 
 <p align="center">
-  <a href="https://shaynahcodes.com"><b>shaynahcodes.com</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://shaynahcodes.com/assets/Shaynah-Ruff-Resume-Web.pdf"><b>Resume</b></a>
+  <a href="https://shaynahcodes.com"><b>shaynahcodes.com</b></a>&emsp;&emsp;<a href="https://shaynahcodes.com/assets/Shaynah-Ruff-Resume-Web.pdf"><b>Resume</b></a>
 </p>
