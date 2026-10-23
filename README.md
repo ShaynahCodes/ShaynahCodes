@@ -9,10 +9,14 @@
 </p>
 
 <p align="center">
-  <b>▶ <a href="#automations">AUTOMATIONS</a>&emsp;&emsp;<a href="#games">GAMES</a>&emsp;&emsp;<a href="#trading">TRADING</a>&emsp;&emsp;<a href="#about">ABOUT</a></b>
+  <b>▶ <a href="#about">ABOUT</a>&emsp;&emsp;<a href="#automations">AUTOMATIONS</a>&emsp;&emsp;<a href="#games">GAMES</a>&emsp;&emsp;<a href="#trading">TRADING</a></b>
 </p>
 
 <br>
+
+## About
+
+I'm based in Atlanta and have a degree in Game Design & Development. I like building things people actually interact with. Sometimes that's a game, sometimes it's a website, and sometimes it's a Python tool that saves someone from doing the same tedious task every Wednesday.
 
 ## Automations
 
@@ -40,10 +44,6 @@ Both are written in Python, and their tests run on every push. The full case stu
 ## Trading
 
 I trade forex, and [AlignedFX](https://alignedfx.com) is where I build tools for the mental side of it.
-
-## About
-
-I'm based in Atlanta and have a degree in Game Design & Development. I like building things people actually interact with. Sometimes that's a game, sometimes it's a website, and sometimes it's a Python tool that saves someone from doing the same tedious task every Wednesday.
 
 <p align="center">
   <a href="https://shaynahcodes.com"><b>shaynahcodes.com</b></a>&emsp;&emsp;<a href="https://shaynahcodes.com/assets/Shaynah-Ruff-Resume-Web.pdf"><b>Resume</b></a>
