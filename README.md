@@ -44,7 +44,7 @@ A Python desktop application that reconciles QuickBooks exports, checks invoices
 
 Both projects include documented safeguards, realistic sample data, automated tests, and runnable demonstrations. You can also explore their interactive case studies on [ShaynahOS](https://shaynahcodes.com).
 
-## Games & Creative Coding
+## Games & Interactive Experiences
 
 Game design is still a big part of what I love about development. I enjoy building interactive systems, experimenting with mechanics, and figuring out how to make an experience feel intuitive and engaging.
 
@@ -59,6 +59,14 @@ A turn-based browser RPG that transforms trading psychology into battles against
 A browser game inspired by probability and patience, featuring custom Canvas physics, collision detection, responsive gameplay, combo mechanics, and synthesized audio.
 
 [Play Profit Plinko](https://alignedfx.com/profit-plinko)
+
+### VR Thriller
+
+A 360° virtual reality experience I created for a virtual production course at Georgia State University. I designed the zombie characters, built the graveyard environment, worked with motion-capture animation, and brought everything together into an immersive tribute to Michael Jackson's *Thriller*.
+
+**Created with:** Character Creator, iClone, 3DXchange, SketchUp, and Blender.
+
+[Watch the 360° experience](https://youtu.be/2cu76XyH2Pw) | [View on ArtStation](https://www.artstation.com/artwork/4b38Y1)
 
 ## AlignedFX
 
@@ -76,8 +84,12 @@ It's been a creative way to combine my interests in psychology, game design, and
 
 **Testing & Workflow Design:** `unittest`, GitHub Actions, data validation, debugging, exception handling
 
-**Creative Development:** Canvas 2D, WordPress, game mechanics, responsive UI design
+**Game & Interactive Development:** Canvas 2D, Web Audio API, gameplay systems, gamification, responsive UI/UX design
+
+**3D & Immersive Production:** Blender, Unity, SketchUp, Character Creator, iClone, 3DXchange, motion capture, 360° VR production
+
+**Web & Content:** WordPress, SEO, content development
 
 ---
 
-**[Explore ShaynahOS](https://shaynahcodes.com)** | **[View My Resume](https://shaynahcodes.com/assets/Shaynah-Resume.pdf)**
+**[Explore ShaynahOS](https://shaynahcodes.com)**
