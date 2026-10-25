@@ -10,35 +10,74 @@
 
 ## About
 
-I'm based in Atlanta and have a degree in Game Design & Development. I like building things people actually interact with. Sometimes that's a game, sometimes it's a website, and sometimes it's a Python tool that saves someone from doing the same tedious task every Wednesday.
+Hi, I'm Shaynah! I'm an Atlanta-based developer who enjoys figuring out how things work and finding ways to make them work better.
 
-## Automations
+My interest in development started with video games. They were something I loved sharing with my family, and eventually I wanted to understand how to create those experiences myself. I studied Game Design & Development at Georgia State University, where I became fascinated by the systems behind the scenes: logic, interactions, feedback, and all the little decisions that shape how something works.
 
-I build tools for the work people dread doing every week. These two are rebuilds of automations I made at my job, with fictional data in place of real customers.
+That curiosity eventually found its way into automation. While working in technical operations, I kept noticing repetitive processes that involved too much manual checking, copying, and room for error. I started building Python tools to make those workflows faster, more reliable, and easier to manage. I especially enjoy breaking down complicated processes, thinking through the edge cases, and turning business rules into software people can confidently use.
+
+I still love the creative side of development. I build browser games, interactive tools, and experiences that explore everything from trading psychology to game mechanics. I even turned my portfolio into a little operating system because I wanted exploring my work to be fun.
+
+Whether I'm building a business automation or a game, the part I enjoy most is seeing an idea turn into something that actually works.
+
+## Python Automations
+
+I build tools that take repetitive work off people's plates while keeping validation, exception handling, and human review in the workflow.
+
+These public repositories are privacy-safe recreations of automations I developed for real business processes. All company and customer information has been replaced with fictional data.
 
 ### [Label Proof Automation](https://github.com/ShaynahCodes/label-proof-automation)
 
-Customers email label requests as Excel, PDF or Word files. This watches the inbox, checks that the label text matches the customer's file exactly, builds the proof, and leaves a reply ready for someone to look over and send.
+A Python workflow that processes label requests from a shared inbox, reads Excel, PDF, and Word attachments, validates the requested text, prevents duplicate processing, and generates proofs with email drafts ready for human review.
 
-**Proof turnaround went from up to 2 hours to under a minute.**
+**Built with:** Python, Microsoft Graph API, SQLite, document processing, and automated testing.
+
+**Impact:** Reduced a process that could take up to two hours to under a minute.
 
 ### [Billing Reconciliation](https://github.com/ShaynahCodes/billing-reconciliation-demo)
 
-Every week, two QuickBooks exports have to agree before invoices go out. This checks every invoice against the billing rules and only makes the PDFs once everything lines up.
+A Python desktop application that reconciles QuickBooks exports, checks invoices against business rules, flags exceptions, generates PDF billing reports, and prepares an Outlook draft for review.
 
-**Weekly billing went from about 2 hours to 10–15 minutes.**
+**Built with:** Python, Tkinter, CSV/PDF processing, `unittest`, and GitHub Actions.
 
-Both are written in Python, and their tests run on every push. The full case studies, with demos you can click through, are on [shaynahcodes.com](https://shaynahcodes.com).
+**Impact:** Reduced weekly billing preparation from approximately two hours to 10–15 minutes.
 
-## Games
+Both projects include documented safeguards, realistic sample data, automated tests, and runnable demonstrations. You can also explore their interactive case studies on [ShaynahOS](https://shaynahcodes.com).
 
-- **[Self Sabotage Slayer](https://github.com/ShaynahCodes/self-sabotage-slayer)**: a turn-based RPG where the bosses are bad trading habits. [Play it](https://mediumblue-oryx-440075.hostingersite.com/)
-- **[Profit Plinko](https://github.com/ShaynahCodes/profit-plinko)**: a Plinko game about probability, variance and staying patient. [Play it](https://alignedfx.com/profit-plinko)
+## Games & Creative Coding
 
-## Trading
+Game design is still a big part of what I love about development. I enjoy building interactive systems, experimenting with mechanics, and figuring out how to make an experience feel intuitive and engaging.
 
-I trade forex, and [AlignedFX](https://alignedfx.com) is where I build tools for the mental side of it.
+### [Self Sabotage Slayer](https://github.com/ShaynahCodes/self-sabotage-slayer)
 
-<p align="center">
-  <a href="https://shaynahcodes.com"><b>shaynahcodes.com</b></a>&emsp;&emsp;<a href="https://shaynahcodes.com/assets/Shaynah-Resume.pdf"><b>Resume</b></a>
-</p>
+A turn-based browser RPG that transforms trading psychology into battles against 11 bosses inspired by emotional habits. Features combat logic, changing market conditions, upgrades, limited-use tools, and gameplay balancing informed by playtesting.
+
+[Play the game](https://mediumblue-oryx-440075.hostingersite.com/)
+
+### [Profit Plinko](https://github.com/ShaynahCodes/profit-plinko)
+
+A browser game inspired by probability and patience, featuring custom Canvas physics, collision detection, responsive gameplay, combo mechanics, and synthesized audio.
+
+[Play Profit Plinko](https://alignedfx.com/profit-plinko)
+
+## AlignedFX
+
+[AlignedFX](https://alignedfx.com) grew out of my own experience with trading and the challenge of staying disciplined under pressure.
+
+I wanted to explore trading psychology through interactive experiences, so I started building JavaScript games, assessments, calculators, and other tools centered on decision-making, patience, and emotional awareness.
+
+It's been a creative way to combine my interests in psychology, game design, and programming while learning how to translate abstract concepts into functional systems and meaningful user interactions.
+
+## What I Work With
+
+**Automation & Development:** Python, JavaScript, HTML/CSS, SQLite, Tkinter, Git, GitHub
+
+**Integrations & Data:** Microsoft Graph API, Microsoft 365, CSV, Excel, PDF, DOCX
+
+**Testing & Workflow Design:** `unittest`, GitHub Actions, data validation, debugging, exception handling
+
+**Creative Development:** Canvas 2D, WordPress, game mechanics, responsive UI design
+
+---
+
+**[Explore ShaynahOS](https://shaynahcodes.com)** | **[View My Resume](https://shaynahcodes.com/assets/Shaynah-Resume.pdf)**
